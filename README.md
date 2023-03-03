@@ -25,4 +25,4 @@ In process of building used following React topics: JavaScript/ES6 functional co
 
 * Github - [Irakli Kutchiashvili](https://github.com/iraklikutchiashvili)
 * Email - irakli9823@gmail.com
-* Linkedln - https://www.linkedin.com/in/irakli-kuchiashvili-44b573226/
+* Linkedln - [Irakli Kutchiashvili](https://www.linkedin.com/in/irakli-kutchiashvili-44b573226/)
