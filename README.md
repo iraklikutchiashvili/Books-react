@@ -18,7 +18,7 @@ In process of building used following React topics: JavaScript/ES6 functional co
 
 ## Links
 
-* Solution URL - [Frontend](https://github.com/iraklikutchiashvili/Books-react)
+* Solution URL - [Solution](https://github.com/iraklikutchiashvili/Books-react)
 * Live Site URL - [Live URL](https://magical-meerkat-c39fb1.netlify.app/)
 
 ## Author
